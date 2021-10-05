@@ -149,7 +149,7 @@ int main(int argc, char* argv[]) {
 
 	else if (control == 'h') {
 		cout << "Steganography is \"techniques to hide data inside common media files\"" << endl
-			<< "you can hide text on your picture (origin.bmp)" << endl
+			<< "You can hide text on your picture (origin.bmp)" << endl
 			<< "And you can import text from encoded pictures (stego.bmp)" << endl;
 	}
 }
